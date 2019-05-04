@@ -34,6 +34,17 @@ Langkah-langkah SEM
 
 7. Interpretasi dan Modifikasi Model. Bila model sudah baik model bisa diinterpretasikan, tetapi bila belum baik perlu dilakukan modifikasi
 
+Uji Model
+------------
+
+ 1. **Chi Square**, makin besar nilai model makin tidak layak.
+ 2. **RMSEA** (Root Mean Square Error of Approxiamation)  nilai $\leq 0.08$
+ 3. **GFI** (Goodness of fit Index), nilai $\geq 0.90$
+ 4. **AGFI** (Adjusted Goodness of Fit Index), Nilai GFI disesuaikan (adjusted) dengan derajat bebas (db) 
+ 5. **RMR** (ROOT MEAN SQUARE RESIDUAL), Semakin besar semakin buruk
+ 6. **TLI** nilai $\geq 0.95$
+ 7.  **CFI** nilai $\geq 0.95$
+
 Untuk belajar SEM lebih lanjut  bisa kunjungi [laman ini](http://jarrettbyrnes.info/ubc_sem/)
 
 LAVAAN
@@ -48,6 +59,8 @@ sebelum menggunakan Lavaan perlu diinstal terlebih dahulu
   
 Pada repository ini terdapat 3 contoh kasus:
 
- 1. 
+ 1. **Cantik**  Confirmatory Factor Analysis  untuk menentukan kecantikan 
+ 2. **Gizi** Path Analysis status gizi
+ 3. **SOP**  Structural Equation Modeling Kepatuhan SOP
 
 Happy SEM with R :)
