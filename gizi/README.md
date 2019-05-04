@@ -1,5 +1,6 @@
 
-#Path Analysis Status Gizi
+
+# Path Analysis Status Gizi
 
 Path analysis menjelaskan hubungan langsung dan tidak langsung antar peubah baik itu independen maupun dependen variabel. 
 
