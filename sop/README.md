@@ -2,7 +2,7 @@
 
 
 # SEM Kepatuhan SOP
-![13 variable yang mempengaruhi kepatuhan terhadap]SEM_SOP.png)
+![13 variable yang mempengaruhi kepatuhan terhadap](SEM_SOP1.png)
 
 Pemodelan **variabel latent X1, Y1 dan Y2** dipengaruhi oleh **10 variabel** untuk itu digunakan operator **=~** dan **~
 
