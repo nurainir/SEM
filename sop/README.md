@@ -158,4 +158,4 @@ Hasil running Rscript sop.R
     38   Y1 ~1        0.000 0.000     NA     NA
     39   Y2 ~1        0.000 0.000     NA     NA
 
-Karena nilai GFI kurang dari 0.95 dan nllai Chi-Square terlalu besar (lebih dari 50) maka perlu kita modifikasi  [sebagaimana dapat dilihat pada sop-modif.R](sop-mod.md) 
+Karena Y2  ~   Y1  adalah 0.309 (lebih besar dari 0.05)  maka perlu kita modifikasi  [sebagaimana dapat dilihat pada sop-modif.R](sop-mod.md) 
