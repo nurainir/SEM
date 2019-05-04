@@ -1,4 +1,5 @@
 
+
 # Structural Equation Modeling(SEM)
 
 Sekilas tentang SEM
@@ -38,12 +39,12 @@ Uji Model
 ------------
 
  1. **Chi Square**, makin besar nilai model makin tidak layak.
- 2. **RMSEA** (Root Mean Square Error of Approxiamation)  nilai $\leq 0.08$
+ 2. **RMSEA** (Root Mean Square Error of Approxiamation) ![img](https://latex.codecogs.com/gif.latex?nilai\leq&space;0.08)
  3. **GFI** (Goodness of fit Index), nilai $\geq 0.90$
  4. **AGFI** (Adjusted Goodness of Fit Index), Nilai GFI disesuaikan (adjusted) dengan derajat bebas (db) 
  5. **RMR** (ROOT MEAN SQUARE RESIDUAL), Semakin besar semakin buruk
- 6. **TLI** nilai $\geq 0.95$
- 7.  **CFI** nilai $\geq 0.95$
+ 6. **TLI**  ![img](https://latex.codecogs.com/gif.latex?nilai\geq&space;0.95)
+ 7.  **CFI** ![img](https://latex.codecogs.com/gif.latex?nilai\geq&space;0.95)
 
 Untuk belajar SEM lebih lanjut  bisa kunjungi [laman ini](http://jarrettbyrnes.info/ubc_sem/)
 
